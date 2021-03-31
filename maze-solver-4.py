@@ -4,7 +4,7 @@ import sys
 
 sys.setrecursionlimit(3000)
 
-IMAGE_PATH            = 'hugest.png'
+IMAGE_PATH            = 'huger.png'
 totals = {
     "white_pixels" : 0,
     "black_pixels": 0,
